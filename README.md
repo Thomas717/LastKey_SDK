@@ -1,1 +1,1 @@
-# LastKey_SDK
+# LastKey SDK
